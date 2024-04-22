@@ -10,4 +10,4 @@ Resumo dos principais projetos:
 * JavaScript_Criando_Requisições ->  Projeto Alura Play, uma plataforma de compartilhamento de vídeos.
 * JavaScript_Validando_Formularios -> Projeto MoniBank - Alura
 
-Para mais informações entre nas pastas e veja a descrição e no arquivo readme.md
+🚩 Para mais informações entre nas pastas e veja a descrição e no arquivo readme.md
